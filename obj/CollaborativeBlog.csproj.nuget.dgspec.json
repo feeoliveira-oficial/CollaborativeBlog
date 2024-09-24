@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\collaborativeblog\\CollaborativeBlog.csproj": {}
+    "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\CollaborativeBlog\\CollaborativeBlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\collaborativeblog\\CollaborativeBlog.csproj": {
+    "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\CollaborativeBlog\\CollaborativeBlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\collaborativeblog\\CollaborativeBlog.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\CollaborativeBlog\\CollaborativeBlog.csproj",
         "projectName": "CollaborativeBlog",
-        "projectPath": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\collaborativeblog\\CollaborativeBlog.csproj",
+        "projectPath": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\CollaborativeBlog\\CollaborativeBlog.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\collaborativeblog\\obj\\",
+        "outputPath": "C:\\Users\\felip\\Downloads\\TrendsTech\\ColaborativeBlog\\CollaborativeBlog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
