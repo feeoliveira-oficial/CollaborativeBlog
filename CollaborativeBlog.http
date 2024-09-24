@@ -1,0 +1,6 @@
+@CollaborativeBlog_HostAddress = http://localhost:5258
+
+GET {{CollaborativeBlog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
